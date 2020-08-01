@@ -12,6 +12,7 @@ target/
 # Compiled class file
 *.class
 .DS_Store
+.mvn*
 
 
 # Log file

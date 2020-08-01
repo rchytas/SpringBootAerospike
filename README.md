@@ -18,7 +18,7 @@ This example is for visualizing and managing a car fleet using Aerospike + Sprin
     Monitoring - To monitor the cars and report status
     Notifications - To notify owners and agency of impending problems
 
-## Technologies explored
+## Technology Stack
     Docker
     Aerospike, AMC, Aerospike Tools Docker Container(s)
     Spring Boot
